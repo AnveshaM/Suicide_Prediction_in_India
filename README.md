@@ -4,3 +4,6 @@ Suicides in India 2019: A Case Study on the impact of the societal constructs on
 
 About the project -
 The study is conducted based on the several datasets available on data.gov.in which is an Open Government Data Platform of India. The goal is to understand the impact of social constructs on the mental health of men and women using Visual Analytics and Multiple Linear Regression model.
+
+Repository Contents - 
+SuicidePredictionIndia_DataAnalysis_and_Prediction_using_ML.ipynb - Jupyter Notebook file containing the code.
